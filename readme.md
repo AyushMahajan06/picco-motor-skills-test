@@ -1,28 +1,32 @@
-Part of the PICCO H2AI Project by Team DBRC
-
 # Motor Skills Test
 
-A React-based application designed to assess motor skills through shape tracing exercises.
+A React-based application for evaluating a user's ability to trace predefined shapes using the propriety AirMo technology, touch or mouse input. This tool can be used for motor skills assessment, rehabilitation exercises, or educational purposes.
+
+![Shape Tracing Test Demo](https://placeholder.svg?height=300&width=600)
 
 ## Features
 
-- **Shape Tracing**: Users can trace shapes using mouse or touch input.
-- **Scoring System**: The application calculates scores based on accuracy, completeness, smoothness, and shape matching.
-- **Firebase Integration**: Scores can be submitted to a Firebase Realtime Database for storage and analysis.
-- **Responsive Design**: The application adapts to different screen sizes, ensuring a smooth user experience across devices.
+- Four predefined shapes to trace: Straight Line, Z Shape, Semi-Circle, and Circle
+- Real-time drawing on HTML canvas
+- Comprehensive scoring system based on accuracy, completeness, smoothness, and shape matching
+- Mobile-friendly with touch support
+- Automatic score submission to Firebase Realtime Database
+- Responsive design suitable for various screen sizes
+- Accessible UI designed for users of all ages
 
-## Getting Started
+## Technologies Used
 
-1. Clone the repository:
-git clone https://github.com/your-repo/shape-tracing-test.git
+- React (Next.js)
+- TypeScript
+- HTML Canvas API
+- Firebase Realtime Database
+- Tailwind CSS
+- shadcn/ui components
 
-2. Install dependencies:
-npm install
+## Installation
 
-4. Run the application:
-npm run dev
-
-5. Access the application:
-Click the link in the terminal after running the application.
+No installation necessary! Simply navigate to this website: 
 
 
+### Known Limitation
+When first starting up the webpage, you may need to drag around in the input box, then click reset. This helps calibrate the input and make the input box adjust to the display.
