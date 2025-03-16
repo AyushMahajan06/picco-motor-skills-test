@@ -2,8 +2,6 @@
 
 A React-based application for evaluating a user's ability to trace predefined shapes using the propriety AirMo technology, touch or mouse input. This tool can be used for motor skills assessment, rehabilitation exercises, or educational purposes.
 
-![Shape Tracing Test Demo](https://placeholder.svg?height=300&width=600)
-
 ## Features
 
 - Four predefined shapes to trace: Straight Line, Z Shape, Semi-Circle, and Circle
@@ -25,7 +23,7 @@ A React-based application for evaluating a user's ability to trace predefined sh
 
 ## Installation
 
-No installation necessary! Simply navigate to this website: 
+No installation necessary! Simply navigate to this website: https://kzmkxpiad4gl3qfkhx7d.lite.vusercontent.net/
 
 
 ### Known Limitation
